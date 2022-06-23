@@ -23,10 +23,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
-          suscipit optio aperiam porro et harum possimus, adipisci esse iure
-          quas eos fugit. Quam hic sequi quibusdam reprehenderit consectetur quo
-          sapiente?
+          Here are some changes made from a new branch. When I make a pull request, vercel bot will generate a preview?
         </p>
       </section>
 
